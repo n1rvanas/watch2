@@ -14,9 +14,9 @@
 	<script src="js/bootstrap.min.js" type="text/javascript"></script>
 	<script src="js/main.js?v=1.0.8" type="text/javascript"></script>
 
-	<link href="css/site.css?v=1.1.51" rel="stylesheet" type="text/css" />
-	<link href="css/common.css?ts=1499604420" rel="stylesheet" type="text/css" />
-	<link href="css/1.css?ts=1499604420" rel="stylesheet" type="text/css" />
+	<link href="css/site.css" rel="stylesheet" type="text/css" />
+	<link href="css/common.css" rel="stylesheet" type="text/css" />
+	<link href="css/1.css" rel="stylesheet" type="text/css" />
 	<script src="js/jquery.browser.min.js" type="text/javascript"></script>
 	<link href="js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
 	<script src="js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
