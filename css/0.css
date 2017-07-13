@@ -1,0 +1,30 @@
+
+body { background: transparent url("../gallery_gen/7df2e7f9902c268c2be162cf5de66c81.jpg") no-repeat scroll left top; }
+.wb_sbg { background: transparent url("../gallery_gen/7df2e7f9902c268c2be162cf5de66c81.jpg") no-repeat scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 0px; }
+.root { width: 1200px; overflow: visible; min-height: 0px; }
+#wb_element_instance23 { left: 540px; top: 0px; min-width: 570px; width: 570px; min-height: 60px; height: 60px; display: block; z-index: 184; }
+#wb_element_instance23 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance23, #wb_element_instance23 ul { text-align: right; }
+#wb_element_instance23 ul ul { background: transparent none repeat scroll right top; }
+#wb_element_instance23 li { margin: 0px 0px 0px 20px; }
+#wb_element_instance23 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 20px 10px 0px; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance23 li.over > a, #wb_element_instance23 li:focus > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance23 li.active > a { border: 2px none #ba37ba; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #b7a74e; line-height: 16px; background: transparent none repeat scroll center center; }
+#wb_element_instance23:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance23:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance23:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance24 { left: 10px; top: 20px; min-width: 60px; width: 60px; min-height: 100px; height: 100px; display: block; z-index: 179; overflow: hidden; }
+#wb_element_instance24 img { width: 100px; height: 100px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance25 { left: 400px; top: 30px; min-width: 450px; width: 450px; min-height: 24px; height: 24px; display: block; z-index: 187; }
+#wb_element_instance26 { left: 0px; top: 20px; display: block; z-index: 9000; }
+#wb_element_instance27 { left: 0px; top: 64px; display: block; z-index: 9999; }
+
+
+#wb_element_instance25 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
