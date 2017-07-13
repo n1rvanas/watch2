@@ -39,7 +39,7 @@ body, .wb_sbg { min-width: 1200px; min-height: 2490px; }
 #wb_element_instance14 { left: 40px; top: 110px; min-width: 440px; width: 440px; min-height: 440px; height: 440px; display: block; z-index: 121; background: #eef2b3; }
 #wb_element_instance15 { left: 40px; top: 1220px; min-width: 1110px; width: 1110px; min-height: 30px; height: 30px; display: block; z-index: 96; }
 #wb_header_bg { background: #ffffff url("../gallery_gen/7df2e7f9902c268c2be162cf5de66c81.jpg") no-repeat scroll center top; height: 756px; }
-#wb_sbg_placeholder { background: transparent url("../gallery_gen/7df2e7f9902c268c2be162cf5de66c81.jpg") no-repeat scroll left top; height: 756px; }
+#wb_sbg_placeholder { background: transparent url("") no-repeat scroll left top; height: 756px; }
 #wb_main { padding-top: 756px; }
 #wb_page_1_bg { height: 1660px; background: #ffffff url("../gallery_gen/7df2e7f9902c268c2be162cf5de66c81.jpg") no-repeat scroll center -200px; }
 #wb_main #page_1_anchor { top: -756px; }
